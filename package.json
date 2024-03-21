@@ -1,5 +1,5 @@
 {
-  "name": "simple-calculator",
+  "name": "mfpsc-simple-calculator",
   "version": "1.0.0",
   "description": "a simple calculator with typescript, Node.js and iquirer",
   "main": "index.js",
